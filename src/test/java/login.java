@@ -4,7 +4,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class login {
-    WebDriver wb;
+    WebDriver wd;
 
     @BeforeMethod
     public void preCondition(){
